@@ -168,9 +168,9 @@ class: middle left
 ---
 class: middle, center
 
-```{r out.width = '75%', echo=FALSE}
+```{r org, echo=FALSE, message=TRUE, warning=TRUE, out.width='75%', paged.print=FALSE}
 # local
-knitr::include_graphics("org.png")
+knitr::include_graphics("img/org.png")
 ```
 
 ---
@@ -284,5 +284,5 @@ class: middle,
 
 ```{r out.width = '10%', echo=FALSE}
 # local
-knitr::include_graphics("logo.png")
+knitr::include_graphics("img/logo.png")
 ```
