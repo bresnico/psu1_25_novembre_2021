@@ -4,8 +4,8 @@ subtitle: "Avancement du projet HEP-VS &#x1F6A7;"
 team: "comité de pilotage du projet"
 author: "Sous la direction d'Anne-Françoise Martinon"
 date: "25 novembre 2021"
-photo_creds: "[Lili Popper](https://unsplash.com/photos/lu15z1m_KfM)" 
-url_unsplash: "https://images.unsplash.com/photo-1439396874305-9a6ba25de6c6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80"
+photo_creds: "[Basil Samuel Lade](https://unsplash.com/photos/3-VpOS9b6zQ)" 
+url_unsplash: "https://images.unsplash.com/photo-1541324995367-63b9fd676860?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
 url_website: "https://www.hepvs.ch/formation-continue-enseignants/informations-generales"
 url_intranet: "https://rms.hepvs.ch/repository/4-weiterbildung/5-einmalige-weiterbildungsangebote/formation-continue-des-enseignants-specialises/dossier-23007"
 background_position: "1050px 20px"
@@ -78,36 +78,40 @@ class: inverse, middle left
 
 --
 
-### 1. En bref...
+- Rappel du contexte
 
 --
 
-### 2. Affaires courantes
+- Fiches projets
+  - Présentation des 2 fiches projets
+  - Etat d’avancement
+  - Echéancier
+  - Enjeux financiers
+  
+--
+
+- Partenariat interinstitutionnel
+  - IPC de l'UNIFR
+  - FernUni
 
 --
 
-### 3. Mise en pratique de la formation (révision de la partie C)
+- Décisions
 
 --
 
-### 4. Institutions partenaires (nouveau!)
-
---
-
-### 5. Prochains jalons Go / No go
-
---
-
-### 6. Divers
+- Divers, suite
 
 ---
 class: middle left
 
-# 1. La formation en bref...
+# Rappel du contexte
 
 --
 
 ### Mandat
+
+Client : Office de l'Enseignement Spécialisé (dépendant du Service de l'Enseignement)
 
 Formation de 44 heures réparties en 4 parties (ou modules) 
 
@@ -117,22 +121,20 @@ Contenus : TSA, troubles et neurosciences, compétences psychosociales, connaiss
 
 ### Autonomie des personnes
 
-3 sessions
+3 sessions de août 2022 à juin 2024
 
-Comodal 
+Utilisation des technologies : Teams (enseignement comodal), Moodle HEP-VS 
 
 --
 
 ### Alternance théorie-pratique forte
 
-Contenus académiques
-
-Connexion avec la culture d'établissement
+Contenus académiques et connexion avec la culture d'établissement
 
 ---
 class: middle left
 
-# 2. Affaires courantes
+# Rappel du contexte : Affaires courantes
 
 --
 
@@ -177,42 +179,41 @@ knitr::include_graphics("img/org.png")
 
 class: inverse, middle left
 
-# 3. Mise en pratique (ancienne "partie C")
+# Présentation des 2 fiches de projets
 
 --
 
-<!-- La partie C pourrait être une communauté de pratiques qui se revoit quelques mois plus tard....une seule fois. Et est-ce que entre temps, on devrait pas exiger un projet ! les gens devraient soumettre un projet à la fin des 4 modules. Un truc qu'il va mettre en oeuvre ! Et on impique jamais les responsables dans le canton. -->
-
-<!-- Les ateliers pratiques pourraient être une sorte de moment de témoignage de personnes-clés où on voit des personnes "qui savent mettre en oeuvre". -->
-
-## Pendant...
-
-- Injection de témoignages dans chaque module (sous forme d'analyse de cas, de vidéo, d'intervention directe)
+## Etat d’avancement
 
 --
 
-## Puis pour clore la formation...
+## Echéancier
 
-- Livraison d'un projet de mise en œuvre d'un ou plusieurs apports de la formation dans l'établissement
-- Encouragement à livrer un projet mutualisé
-- Mise à disposition d'un canevas de projet soutenant la mise en pratique et l'identification des freins/leviers
+- Septembre 2021: Validation financière du projet, validation du concept de formation &#x1f7e0;
+
+- Octobre 2021: Démarrage des organes de formation 1.12 (CS) ;  6.12 (GC) ; 10.01 (CS) ; 11.01 (GC) &#x1F7E2;
+
+- Janvier 2022: Validation des équipes de formation &#x1f7e0;
+
+- Février 2022: Validation de la première communication aux ES par l'OES sur proposition de la HEP-VS &#x1f7e0;
 
 --
 
-## Et ensuite...
+## Enjeux financiers
 
-- Mise à disposition d'une zone de ressources (Sharepoint ICT-VS géré par l'OES)
-- Sélection et mutualisation des projets (Sharepoint ICT-VS)
-- Encouragement du maintien de communautés de pratiques (rencontres semestrielles facilitées)
 
 ---
 class: middle left, inverse
 
-# 4. Institutions partenaires (nouveau!)
+# Partenariat interinstitutionnel
+
 
 --
 
 ## IPC (UNFIR)
+
+--
+
 ## UniDistance
 
 --
@@ -221,65 +222,37 @@ class: middle left, inverse
 
 - Place dans le comité de pilotage
 - Rôle décisionnel
-
-
----
-
-class: middle left
-
-# 5. Prochains jalons Go / No go
-
---
-
-.pull-left[
-
-## Positionnement
-
-- Rôle du conseil scientifique
-
-- Participation partielles des enseignant·es en formation MAES
-
-- Caractère fixe des 3 sessions (en fonction des coûts)
-
-- Partenaires institutionnels
-
-- Aspect "pratique" de la formation
-
-- Chiffres-clés sur le public-cible (total, par catégories)
-
-- Obtention et utilisation des adresses @edu.vs.ch
-
-]
-
---
-
-.pull-right[
-
-## Dates-clés
-
-- Septembre 2021: Validation financière du projet, validation du concept de formation &#x1f7e0;
-
-- Octobre 2021: Démarrage des organes de formation &#x1F7E2;
-
-- 1.12 (CS) ;  6.12 (GC) ; 10.01 (CS) ; 11.01 (GC)
-
-- Janvier 2022: Validation des équipes de formation &#x1f7e0;
-
-- Février 2022: Validation de la première communication aux ES par l'OES sur proposition de la HEP-VS &#x1f7e0;
-
-]
+- Nécessité d'une convention
 
 ---
 
 class: middle left
 
-# 6. Divers
+# Décisions
+
+--
+
+## Go / No Go financier
+
+--
+
+## Go / No Go pour le partenariat institutionnel
+
+- Go / No Go de principe de la DIR HEP-VS
+
+- Négociation de la convention par DIR ou UFA (deadline : 15 janvier 2022)
+
+---
+
+class: middle left
+
+# Divers
 
 ---
 
 class: middle,  
 
-## Merci pour votre attention!
+## Merci pour ton attention!
 
 
 ```{r out.width = '10%', echo=FALSE}
